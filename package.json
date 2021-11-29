@@ -1,5 +1,5 @@
 {
-  "name": "@yyx/eslint-config",
+  "name": "yyx-eslint-config",
   "author": "yuanyuxing",
   "license": "MIT",
   "scripts": {
