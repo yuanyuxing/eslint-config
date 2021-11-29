@@ -1,0 +1,22 @@
+{
+  "name": "@yyx/eslint-config-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "yuanyuxing",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@yyx/eslint-config-ts": "^1.0.0",
+    "eslint": "^8.3.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}

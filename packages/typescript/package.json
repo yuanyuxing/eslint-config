@@ -1,0 +1,24 @@
+{
+  "name": "@yyx/eslint-config-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "yuanyuxing",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "@yyx/eslint-config-base": "^1.0.0",
+    "eslint": "^8.3.0"
+  }
+}
