@@ -8,6 +8,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": ">=7.4.0",
     "typescript": ">=3.9"

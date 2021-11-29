@@ -1,6 +1,7 @@
 {
-  "name": "yyx-eslint-config",
+  "name": "@yyx/eslint-config",
   "author": "yuanyuxing",
+  "private":true,
   "license": "MIT",
   "scripts": {
     "lint": "npx eslint --ext .js,.json,.vue --fix .",
