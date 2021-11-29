@@ -20,5 +20,6 @@
     "@typescript-eslint/parser": "^5.4.0",
     "@yyx/eslint-config-base": "^1.0.1",
     "eslint": "^8.3.0"
-  }
+  },
+  "gitHead": "7ca508cd862c19e6408053355bbfdc978ddf7795"
 }

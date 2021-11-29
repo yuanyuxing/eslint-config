@@ -18,5 +18,6 @@
     "@yyx/eslint-config-ts": "^1.0.1",
     "eslint": "^8.3.0",
     "eslint-plugin-vue": "^8.1.1"
-  }
+  },
+  "gitHead": "7ca508cd862c19e6408053355bbfdc978ddf7795"
 }
