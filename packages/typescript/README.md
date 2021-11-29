@@ -1,6 +1,6 @@
-# `typescript`
+# `@yyx/eslint-config-typescript`
 
-> TODO: description
+> TODO: ts 的 eslint 配置
 
 ## Usage
 

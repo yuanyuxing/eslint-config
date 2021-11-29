@@ -1,6 +1,6 @@
-# `vue`
+# `@yyx/eslint-config-vue`
 
-> TODO: description
+> TODO: vue 的配置
 
 ## Usage
 

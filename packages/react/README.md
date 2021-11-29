@@ -1,6 +1,6 @@
-# `react`
+# `@yyx/eslint-config-react`
 
-> TODO: description
+> TODO: react 的配置信息
 
 ## Usage
 

@@ -1,6 +1,6 @@
-# `base`
+# `@yyx/eslint-config-base`
 
-> TODO: description
+> TODO: 基础配置信息
 
 ## Usage
 
