@@ -3,7 +3,9 @@
   "author": "yuanyuxing",
   "version": "1.0.3",
   "license": "MIT",
-  "scripts": {
+  "publishConfig": {
+    "access": "public"
+  },  "scripts": {
     "lint": "npx eslint --ext .js,.json,.vue --fix .",
     "release": "lerna publish --conventional-commits"
   },
