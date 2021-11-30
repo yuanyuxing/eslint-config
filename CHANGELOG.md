@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/yuanyuxing/eslint-config/compare/v1.2.1...v1.2.2) (2021-11-30)
+
+
+### Bug Fixes
+
+* react add package ([c802dcb](https://github.com/yuanyuxing/eslint-config/commit/c802dcb3ba7582e8771b91d6f8520ec3d5424528))
+
+
+
+
+
 ## [1.2.1](https://github.com/yuanyuxing/eslint-config/compare/v1.2.0...v1.2.1) (2021-11-30)
 
 
