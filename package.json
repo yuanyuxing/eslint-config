@@ -1,6 +1,7 @@
 {
-  "name": "eslint-config-yyx",
+  "name": "@yyx/eslint-config-monorepo",
   "author": "yuanyuxing",
+  "private": true,
   "version": "1.0.3",
   "license": "MIT",
   "scripts": {

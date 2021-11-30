@@ -1,5 +1,5 @@
 {
-  "name": "@yyx/eslint-config-vue",
+  "name": "@yyxing/eslint-config-vue",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -18,9 +18,8 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@yyx/eslint-config-ts": "^1.1.0",
+    "@yyxing/eslint-config-ts": "^1.1.0",
     "eslint": "^8.3.0",
     "eslint-plugin-vue": "^8.1.1"
-  },
-  "gitHead": "89523d331c1d96dc2c8c3ee7ce2514d8b677d0f8"
+  }
 }
