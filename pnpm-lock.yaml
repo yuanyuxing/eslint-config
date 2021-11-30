@@ -1,21 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@yyxing/eslint-config': '*'
-  '@yyxing/eslint-config-base': workspace:^1.2.0
-  '@yyxing/eslint-config-react': workspace:^1.2.1
-  '@yyxing/eslint-config-ts': workspace:^1.2.1
-  '@yyxing/eslint-config-vue': workspace:^1.2.1
+  '@yyxing/eslint-config': ^1.2.4
   eslint: ^8.3.0
   lerna: ^4.0.0
   typescript: ^4.5.2
 
 dependencies:
-  '@yyxing/eslint-config': 1.2.2_eslint@8.3.0+typescript@4.5.2
-  '@yyxing/eslint-config-base': link:packages/base
-  '@yyxing/eslint-config-react': link:packages/react
-  '@yyxing/eslint-config-ts': link:packages/typescript
-  '@yyxing/eslint-config-vue': link:packages/vue
+  '@yyxing/eslint-config': 1.2.4_eslint@8.3.0+typescript@4.5.2
 
 devDependencies:
   eslint: 8.3.0
@@ -1301,10 +1293,10 @@ packages:
       - supports-color
     dev: false
 
-  /@yyxing/eslint-config-react/1.2.2_typescript@4.5.2:
-    resolution: {integrity: sha512-YXh98/PF4vaBaWierqL0kKM4UMwg7x5dZoe7P6WDsTUWo4b52rVRcNwR3FKdW0QvsX0oBZLvMwJVPXDHMa4qcA==}
+  /@yyxing/eslint-config-react/1.2.4_typescript@4.5.2:
+    resolution: {integrity: sha512-pQFzi641lVH004GX7TK+XZe8+Bc43lNJ45U7CddysadImXtYbct/YlUk24KqlCU76rg0VMLpdxR5iCRpru+3gQ==}
     dependencies:
-      '@yyxing/eslint-config-ts': 1.2.1_typescript@4.5.2
+      '@yyxing/eslint-config-ts': 1.2.4_typescript@4.5.2
       eslint: 8.3.0
       eslint-plugin-react: 7.27.1_eslint@8.3.0
     transitivePeerDependencies:
@@ -1312,8 +1304,8 @@ packages:
       - typescript
     dev: false
 
-  /@yyxing/eslint-config-ts/1.2.1_typescript@4.5.2:
-    resolution: {integrity: sha512-Ulj4lEaANI6bfdXreY6K9Y9Y+j+Q2tW1lDba0Bp1GpBKH2T4yUL6IoQKghN6rLI6zkMZdhbKzOPxkIn+PET2Jg==}
+  /@yyxing/eslint-config-ts/1.2.4_typescript@4.5.2:
+    resolution: {integrity: sha512-7JG41XRmMb4OkSoiQ1HI4Q80FREz+aW8z//AYKuhAKLyWgHiJ0QUV0yUTVAVB7WfCdk9X3yLvv7yjN65gzJ7KQ==}
     peerDependencies:
       typescript: '>=3.9'
     dependencies:
@@ -1326,10 +1318,10 @@ packages:
       - supports-color
     dev: false
 
-  /@yyxing/eslint-config-vue/1.2.1_typescript@4.5.2:
-    resolution: {integrity: sha512-6E+RX3X7Wm62bhDBUyb5uhX3UVS5xHX9GtvaKAXQQwG9LD/AwyVXjzxoiAh0lzVvAD6pAcgCDPWxB2ezFdQzHw==}
+  /@yyxing/eslint-config-vue/1.2.4_typescript@4.5.2:
+    resolution: {integrity: sha512-nWPp5KArdZrEhuT6xpCg8J60lfCY3IHKx2aGDSudS2BNJCvVIfjZ/wE8wmXlquz0zWZVX5rSR0c708DIJWuFWA==}
     dependencies:
-      '@yyxing/eslint-config-ts': 1.2.1_typescript@4.5.2
+      '@yyxing/eslint-config-ts': 1.2.4_typescript@4.5.2
       eslint: 8.3.0
       eslint-plugin-vue: 8.1.1_eslint@8.3.0
     transitivePeerDependencies:
@@ -1337,13 +1329,13 @@ packages:
       - typescript
     dev: false
 
-  /@yyxing/eslint-config/1.2.2_eslint@8.3.0+typescript@4.5.2:
-    resolution: {integrity: sha512-IQ39Yz0vrXeJ9O/qJ/7AR04ADfjYNdpDmXFcQ2ZLe2fMbBR4GwwR+HXSjSzHVCiiZ0AmEaa37BnykVZlEYpDRQ==}
+  /@yyxing/eslint-config/1.2.4_eslint@8.3.0+typescript@4.5.2:
+    resolution: {integrity: sha512-cEUz6w41f1Z8as1ciWe3A8ZHM1JuguQ7VZemVK+pE9wo662/8ZChWfGJfeL/kDoIVDeZKsRCRTCrYSABqncCDQ==}
     peerDependencies:
       eslint: '>=7.4.0'
     dependencies:
-      '@yyxing/eslint-config-react': 1.2.2_typescript@4.5.2
-      '@yyxing/eslint-config-vue': 1.2.1_typescript@4.5.2
+      '@yyxing/eslint-config-react': 1.2.4_typescript@4.5.2
+      '@yyxing/eslint-config-vue': 1.2.4_typescript@4.5.2
       eslint: 8.3.0
     transitivePeerDependencies:
       - supports-color
