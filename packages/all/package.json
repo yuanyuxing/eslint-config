@@ -1,6 +1,6 @@
 {
   "name": "@yyx/eslint-config",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "author": "yuanyuxing",
@@ -18,7 +18,7 @@
     "lint": "eslint . --config=index.js"
   },
   "devDependencies": {
-    "@yyx/eslint-config-react": "^1.0.3",
-    "@yyx/eslint-config-vue": "^1.0.3"
+    "@yyx/eslint-config-react": "^1.1.0",
+    "@yyx/eslint-config-vue": "^1.1.0"
   }
 }

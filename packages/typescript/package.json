@@ -1,6 +1,6 @@
 {
   "name": "@yyx/eslint-config-ts",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "author": "yuanyuxing",
@@ -21,7 +21,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
-    "@yyx/eslint-config-base": "^1.0.3",
+    "@yyx/eslint-config-base": "^1.1.0",
     "eslint": "^8.3.0"
   },
   "gitHead": "89523d331c1d96dc2c8c3ee7ce2514d8b677d0f8"
