@@ -1,6 +1,6 @@
 {
   "name": "@yyxing/eslint-config-react",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
   "main": "index.js",
   "author": "yuanyuxing",
@@ -18,7 +18,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@yyxing/eslint-config-ts": "^1.2.1",
+    "@yyxing/eslint-config-ts": "^1.2.3",
     "eslint": "^8.3.0",
     "eslint-plugin-react": "^7.27.1"
   },

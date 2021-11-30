@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/yuanyuxing/eslint-config/compare/v1.2.2...v1.2.3) (2021-11-30)
+
+
+### Bug Fixes
+
+* import path @yyxing/eslint-config-base ([d3242e1](https://github.com/yuanyuxing/eslint-config/commit/d3242e19677db63e483bba8dbe106e581ca553f4))
+
+
+
+
+
 ## [1.2.2](https://github.com/yuanyuxing/eslint-config/compare/v1.2.1...v1.2.2) (2021-11-30)
 
 
