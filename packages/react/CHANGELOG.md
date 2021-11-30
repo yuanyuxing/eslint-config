@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/yuanyuxing/eslint-config/compare/v1.2.0...v1.2.1) (2021-11-30)
+
+
+### Bug Fixes
+
+* update extends ([5618efa](https://github.com/yuanyuxing/eslint-config/commit/5618efafa06836cbe1fa05157439c7c266ffec9a))
+
+
+
+
+
 # [1.2.0](https://github.com/yuanyuxing/eslint-config/compare/v1.1.0...v1.2.0) (2021-11-30)
 
 
