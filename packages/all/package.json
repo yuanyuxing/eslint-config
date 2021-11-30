@@ -1,5 +1,5 @@
 {
-  "name": "@yyx/eslint-config-react",
+  "name": "@yyx/eslint-config",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "lint": "eslint . --config=index.js"
-  },
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
-  "dependencies": {
-    "@yyx/eslint-config-ts": "^1.0.3",
-    "eslint": "^8.3.0",
-    "eslint-plugin-react": "^7.27.1"
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "devDependencies": {
+    "@yyx/eslint-config-react": "^1.0.3",
+    "@yyx/eslint-config-vue": "^1.0.3"
   }
 }

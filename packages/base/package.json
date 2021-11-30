@@ -30,6 +30,5 @@
     "eslint-plugin-yml": "^0.12.0",
     "jsonc-eslint-parser": "^2.0.4",
     "yaml-eslint-parser": "^0.5.0"
-  },
-  "gitHead": "89523d331c1d96dc2c8c3ee7ce2514d8b677d0f8"
+  }
 }
