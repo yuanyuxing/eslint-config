@@ -12,5 +12,12 @@
     "eslint": "^8.3.0",
     "lerna": "^4.0.0",
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@yyxing/eslint-config": "workspace:^1.2.1",
+    "@yyxing/eslint-config-base": "workspace:^1.2.0",
+    "@yyxing/eslint-config-react": "workspace:^1.2.1",
+    "@yyxing/eslint-config-ts": "workspace:^1.2.1",
+    "@yyxing/eslint-config-vue": "workspace:^1.2.1"
   }
 }
