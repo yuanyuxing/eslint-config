@@ -103,6 +103,7 @@ module.exports = {
     'import/no-absolute-path': 'off',
 
     // Common
+
     'semi': ['error', 'never'],
     'curly': ['error', 'multi-or-nest', 'consistent'],
     'quotes': ['error', 'single'],
